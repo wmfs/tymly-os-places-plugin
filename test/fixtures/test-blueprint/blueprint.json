@@ -1,0 +1,11 @@
+{
+  "namespace": "tymlyTest",
+  "name": "test",
+  "version": "1.0",
+
+  "label": "Test",
+  "author": "WMFs",
+
+  "organisation": "Tymlys",
+  "description": "An example Tymly Blueprint ..."
+}

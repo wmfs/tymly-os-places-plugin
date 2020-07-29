@@ -1,0 +1,13 @@
+{
+  "Comment": "OS Address Lookup",
+  "StartAt": "Get",
+  "States": {
+    "Get": {
+      "Type": "Task",
+      "Resource": "module:osAddressLookup",
+      "ResourceConfig": {},
+      "ResultPath": "$.test",
+      "End": true
+    }
+  }
+}
