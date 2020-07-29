@@ -1,0 +1,29 @@
+{
+  "title": "Address Lookup Receipts",
+  "description": "Address Lookup Receipts",
+  "type": "object",
+  "properties": {
+    "query": {
+      "type": "string"
+    },
+    "offset": {
+      "type": "string"
+    },
+    "limit": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["SUCCEEDED", "FAILED"]
+    },
+    "totalHits": {
+      "type": "integer"
+    },
+    "errorCode": {
+      "type": "string"
+    },
+    "errorMessage": {
+      "type": "string"
+    }
+  }
+}

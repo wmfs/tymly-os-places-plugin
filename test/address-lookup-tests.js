@@ -7,7 +7,7 @@ const path = require('path')
 describe('OS Address Lookup Tests', function () {
   this.timeout(process.env.TIMEOUT || 5000)
 
-  let statebox, osPlaces
+  let statebox, osPlaces, receiptModel
 
   before(function () {
     if (!process.env.OS_PLACES_API_KEY) {
@@ -31,6 +31,7 @@ describe('OS Address Lookup Tests', function () {
 
         statebox = services.statebox
         osPlaces = services.osPlaces
+        receiptModel = services.storage.models.osPlaces_addressLookupReceipts
 
         done()
       }
@@ -51,6 +52,11 @@ describe('OS Address Lookup Tests', function () {
     it('test the address lookup with no parameters', async () => {
       const res = await osPlaces.searchAddress()
       expect(res.results.length).to.eql(0)
+    })
+
+    it('test the address lookup with bad query for URL', async () => {
+      const res = await osPlaces.searchAddress({ query: 'kebab % & 123 ?' })
+      expect(res.results.length).to.eql(10)
     })
   })
 
@@ -79,6 +85,19 @@ describe('OS Address Lookup Tests', function () {
       expect(execDesc.currentResource).to.eql('module:osAddressLookup')
       expect(execDesc.status).to.eql('SUCCEEDED')
       expect(execDesc.ctx.test.results.length).to.eql(0)
+    })
+  })
+
+  describe('check receipt model for succeeded/failed receipts', function () {
+    it('find all', async () => {
+      const res = await receiptModel.find({})
+      expect(res.length).to.eql(6)
+
+      const succeededRes = res.filter(r => r.status === 'SUCCEEDED')
+      expect(succeededRes.length).to.eql(3)
+
+      const failedRes = res.filter(r => r.status === 'FAILED')
+      expect(failedRes.length).to.eql(3)
     })
   })
 })

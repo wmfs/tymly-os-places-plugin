@@ -1,0 +1,10 @@
+{
+  "namespace": "osPlaces",
+  "name": "os-places-blueprint",
+  "version": "1.0",
+  "label": "os-places-blueprint",
+  "author": "WMFS",
+  "organisation": "West Midlands Fire Service",
+  "description": "Tymly blueprint for OS Places API interactions.",
+  "categories": []
+}
