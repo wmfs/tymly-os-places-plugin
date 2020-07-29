@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.0.0...v1.1.0) (2020-07-29)
+
+
+### ✨ Features
+
+* add receipt model to track failed/succeeded address lookups [ch1338] ([113d38c](https://github.com/wmfs/tymly-os-places-plugin/commit/113d38c0811a277445eb121fd5053cb53421b60a))
+
 # 1.0.0 (2020-07-29)
 
 
