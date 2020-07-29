@@ -40,17 +40,17 @@ describe('OS Address Lookup Tests', function () {
   describe('Address Lookup - service function', function () {
     it('test the address lookup with query=kebab', async () => {
       const res = await osPlaces.searchAddress({ query: 'kebab' })
-      expect(res.length).to.eql(10)
+      expect(res.results.length).to.eql(10)
     })
 
     it('test the address lookup with query=null', async () => {
       const res = await osPlaces.searchAddress({})
-      expect(res.length).to.eql(0)
+      expect(res.results.length).to.eql(0)
     })
 
     it('test the address lookup with no parameters', async () => {
       const res = await osPlaces.searchAddress()
-      expect(res.length).to.eql(0)
+      expect(res.results.length).to.eql(0)
     })
   })
 
@@ -66,7 +66,7 @@ describe('OS Address Lookup Tests', function () {
 
       expect(execDesc.currentResource).to.eql('module:osAddressLookup')
       expect(execDesc.status).to.eql('SUCCEEDED')
-      expect(execDesc.ctx.test.length).to.eql(10)
+      expect(execDesc.ctx.test.results.length).to.eql(10)
     })
 
     it('test the address lookup with no input', async () => {
@@ -78,7 +78,7 @@ describe('OS Address Lookup Tests', function () {
 
       expect(execDesc.currentResource).to.eql('module:osAddressLookup')
       expect(execDesc.status).to.eql('SUCCEEDED')
-      expect(execDesc.ctx.test.length).to.eql(0)
+      expect(execDesc.ctx.test.results.length).to.eql(0)
     })
   })
 })
