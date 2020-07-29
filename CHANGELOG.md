@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.1.0...v1.1.1) (2020-07-29)
+
+
+### 🐛 Bug Fixes
+
+* amend model properties for pg ([43a3b37](https://github.com/wmfs/tymly-os-places-plugin/commit/43a3b370f5d1ac70adbe1dbd6df179ca3cee3758))
+
 # [1.1.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.0.0...v1.1.0) (2020-07-29)
 
 
