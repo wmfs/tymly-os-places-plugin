@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.1.1...v1.1.2) (2020-07-29)
+
+
+### 🐛 Bug Fixes
+
+* reject search address is api key is not set ([6e1cff4](https://github.com/wmfs/tymly-os-places-plugin/commit/6e1cff45808f5827edb8cd00b6cde29a298501c6))
+
 ## [1.1.1](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.1.0...v1.1.1) (2020-07-29)
 
 
