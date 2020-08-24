@@ -1,3 +1,16 @@
+# [1.2.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.1.2...v1.2.0) (2020-08-24)
+
+
+### 🛠 Builds
+
+* **deps:** bump axios from 0.19.2 to 0.20.0 ([edce995](https://github.com/wmfs/tymly-os-places-plugin/commit/edce9952476259d6139e0e03d4a180455f812ebe))
+
+
+### ♻️ Chores
+
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.153.0 to 1.157.0 ([9bb1d0e](https://github.com/wmfs/tymly-os-places-plugin/commit/9bb1d0e60e0d42ceacccefee5e4c94c35ea4b153))
+* **deps-dev:** bump mocha from 8.0.1 to 8.1.1 ([7a1d402](https://github.com/wmfs/tymly-os-places-plugin/commit/7a1d402525aac0cf9ec7c8919c977ea28b018064))
+
 ## [1.1.2](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.1.1...v1.1.2) (2020-07-29)
 
 
