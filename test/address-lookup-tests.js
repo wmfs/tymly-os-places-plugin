@@ -61,7 +61,7 @@ describe('OS Address Lookup Tests', function () {
 
     it('test the uprn lookup', async () => {
       const res = await osPlaces.searchAddress({ query: 10090434308, lookupType: 'uprn' })
-      expect(res.results.length).to.eql(1)
+      expect(res.results.length).to.eql(3)
     })
   })
 
@@ -92,7 +92,7 @@ describe('OS Address Lookup Tests', function () {
 
       expect(execDesc.currentResource).to.eql('module:osAddressLookup')
       expect(execDesc.status).to.eql('SUCCEEDED')
-      expect(execDesc.ctx.test.results.length).to.eql(1)
+      expect(execDesc.ctx.test.results.length).to.eql(3)
     })
 
     it('test the address lookup with no input', async () => {
