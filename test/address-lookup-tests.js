@@ -58,6 +58,11 @@ describe('OS Address Lookup Tests', function () {
       const res = await osPlaces.searchAddress({ query: 'kebab % & 123 ?' })
       expect(res.results.length).to.eql(10)
     })
+
+    it('test the uprn lookup', async () => {
+      const res = await osPlaces.searchAddress({ query: 10090434308, lookupType: 'uprn' })
+      expect(res.results.length).to.eql(1)
+    })
   })
 
   describe('Address Lookup - state resource', function () {
@@ -73,6 +78,21 @@ describe('OS Address Lookup Tests', function () {
       expect(execDesc.currentResource).to.eql('module:osAddressLookup')
       expect(execDesc.status).to.eql('SUCCEEDED')
       expect(execDesc.ctx.test.results.length).to.eql(10)
+    })
+
+    it('test the uprn lookup with uprn=10090434308', async () => {
+      const execDesc = await statebox.startExecution(
+        {
+          query: 10090434308,
+          lookupType: 'uprn'
+        },
+        stateMachine,
+        { sendResponse: 'COMPLETE', userId: 'Dave' }
+      )
+
+      expect(execDesc.currentResource).to.eql('module:osAddressLookup')
+      expect(execDesc.status).to.eql('SUCCEEDED')
+      expect(execDesc.ctx.test.results.length).to.eql(1)
     })
 
     it('test the address lookup with no input', async () => {
@@ -91,10 +111,10 @@ describe('OS Address Lookup Tests', function () {
   describe('check receipt model for succeeded/failed receipts', function () {
     it('find all', async () => {
       const res = await receiptModel.find({})
-      expect(res.length).to.eql(6)
+      expect(res.length).to.eql(8)
 
       const succeededRes = res.filter(r => r.status === 'SUCCEEDED')
-      expect(succeededRes.length).to.eql(3)
+      expect(succeededRes.length).to.eql(5)
 
       const failedRes = res.filter(r => r.status === 'FAILED')
       expect(failedRes.length).to.eql(3)
