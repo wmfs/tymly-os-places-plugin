@@ -1,3 +1,17 @@
+## [1.3.1](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.3.0...v1.3.1) (2020-11-11)
+
+
+### 🐛 Bug Fixes
+
+* console log in search address rather than options message as it isn't available here ([148767d](https://github.com/wmfs/tymly-os-places-plugin/commit/148767dc4d1e3c439906bdbfc80a45d2824682a5))
+
+
+### ♻️ Chores
+
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.169.0 to 1.170.0 ([dd2d17d](https://github.com/wmfs/tymly-os-places-plugin/commit/dd2d17d809f54a9dba6b0ba5edf1c0cfdfcce53d))
+* **deps-dev:** bump codecov from 3.8.0 to 3.8.1 ([ff545ce](https://github.com/wmfs/tymly-os-places-plugin/commit/ff545ce575528c5cccdc896c65ae152ca9567cd2))
+* **deps-dev:** bump mocha from 8.2.0 to 8.2.1 ([0060351](https://github.com/wmfs/tymly-os-places-plugin/commit/006035149b3bde0a4abf61fa1355b3d27781e5d4))
+
 # [1.3.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.2.0...v1.3.0) (2020-11-02)
 
 
