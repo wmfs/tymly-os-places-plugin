@@ -1,3 +1,31 @@
+## [1.4.1](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.4.0...v1.4.1) (2021-01-28)
+
+
+### 🐛 Bug Fixes
+
+* update api url [ch3967] ([ec49fda](https://github.com/wmfs/tymly-os-places-plugin/commit/ec49fda4479a51319ac81889f64d583ebeda5a4b))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.176.1 to 1.177.0 ([67d8f9f](https://github.com/wmfs/tymly-os-places-plugin/commit/67d8f9f6f36d3eb7c520ff2383be5bed2d5832e7))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.177.0 to 1.178.0 ([9f0e3bc](https://github.com/wmfs/tymly-os-places-plugin/commit/9f0e3bc3e614d1287fb1dbddae457c1230bcdb8f))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.178.0 to 1.179.0 ([6defebb](https://github.com/wmfs/tymly-os-places-plugin/commit/6defebb81eef8ada005f101f7467d19054b5525b))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.179.0 to 1.180.0 ([821f59e](https://github.com/wmfs/tymly-os-places-plugin/commit/821f59e0d15ae02f83b04dd94b81e2aa1eec4fb2))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.180.0 to 1.181.0 ([bd84b85](https://github.com/wmfs/tymly-os-places-plugin/commit/bd84b85f320271fc4f3d7d55fa11f038fc6b2f90))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.181.0 to 1.182.0 ([4beff7e](https://github.com/wmfs/tymly-os-places-plugin/commit/4beff7e60301181e59ee36e5f6523619f7b7d775))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.182.0 to 1.183.0 ([9c78c44](https://github.com/wmfs/tymly-os-places-plugin/commit/9c78c44fabed7a8ae4a7714fbe8b74c71770dc72))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.183.0 to 1.184.0 ([da582f5](https://github.com/wmfs/tymly-os-places-plugin/commit/da582f54282ee063242a5c960b093211ea529cd5))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.184.0 to 1.185.0 ([eda46be](https://github.com/wmfs/tymly-os-places-plugin/commit/eda46bef96ef897cb718e6ede2d4f2a361cfdf27))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.185.0 to 1.186.0 ([879f7e9](https://github.com/wmfs/tymly-os-places-plugin/commit/879f7e9330775517f80e481cddf880d3797b45fd))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.186.0 to 1.187.0 ([7d302a9](https://github.com/wmfs/tymly-os-places-plugin/commit/7d302a9222ae896a950ec978890f00c8aa0b9dd0))
+* **deps-dev:** bump semantic-release from 17.3.1 to 17.3.2 ([8623b46](https://github.com/wmfs/tymly-os-places-plugin/commit/8623b462dd3a417e57a144175989db93d4c2e1fb))
+* **deps-dev:** bump semantic-release from 17.3.2 to 17.3.3 ([bfb004d](https://github.com/wmfs/tymly-os-places-plugin/commit/bfb004dd546d2d71adf0f37f9487f48dbef8d969))
+* **deps-dev:** bump semantic-release from 17.3.3 to 17.3.4 ([fbe31de](https://github.com/wmfs/tymly-os-places-plugin/commit/fbe31def625ba1113f27274a13f6778b21a3c8a7))
+* **deps-dev:** bump semantic-release from 17.3.4 to 17.3.5 ([d8fa4af](https://github.com/wmfs/tymly-os-places-plugin/commit/d8fa4af4a281b6c979a24e48da787b98bd763201))
+* **deps-dev:** bump semantic-release from 17.3.5 to 17.3.6 ([e480a37](https://github.com/wmfs/tymly-os-places-plugin/commit/e480a372de51c87f571678dd29ba4059570c1244))
+* **deps-dev:** bump semantic-release from 17.3.6 to 17.3.7 ([0b6a699](https://github.com/wmfs/tymly-os-places-plugin/commit/0b6a6990d3a315fb93d8589ffc7d638321686aeb))
+
 # [1.4.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.3.1...v1.4.0) (2021-01-05)
 
 
