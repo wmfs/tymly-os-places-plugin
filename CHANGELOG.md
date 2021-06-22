@@ -1,3 +1,61 @@
+# [1.5.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.4.1...v1.5.0) (2021-06-22)
+
+
+### ✨ Features
+
+* dataset is an option when searching address ([af5a84f](https://github.com/wmfs/tymly-os-places-plugin/commit/af5a84f86c135577c2f151dcb0c745b5fb84eeb1))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.187.0 to 1.188.0 ([407820d](https://github.com/wmfs/tymly-os-places-plugin/commit/407820dd9f55079d495eea9133179a4b27598c8c))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.188.0 to 1.189.0 ([aea1978](https://github.com/wmfs/tymly-os-places-plugin/commit/aea197860a703441294e8e1839237ac3561fcda3))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.189.0 to 1.190.0 ([7b8f309](https://github.com/wmfs/tymly-os-places-plugin/commit/7b8f309cc50397a6abf2aea347ba5eef7988c7bb))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.190.0 to 1.191.0 ([e2061b2](https://github.com/wmfs/tymly-os-places-plugin/commit/e2061b2c1142e9ea40aa704cde3999c7aaf5fe73))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.191.0 to 1.192.0 ([264f484](https://github.com/wmfs/tymly-os-places-plugin/commit/264f48482d9b363caf01559defd86fa1210dc68f))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.192.0 to 1.193.0 ([994512f](https://github.com/wmfs/tymly-os-places-plugin/commit/994512fa82ad5ecc837d53febe9245e6f54ea042))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.193.0 to 1.194.0 ([10aa3fc](https://github.com/wmfs/tymly-os-places-plugin/commit/10aa3fc963c39c50840fbf6d23b4fd70d5c94504))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.194.0 to 1.195.0 ([bb144c2](https://github.com/wmfs/tymly-os-places-plugin/commit/bb144c257ad178e13a9af7aa874dec58e1b44b98))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.195.0 to 1.195.1 ([1a8db73](https://github.com/wmfs/tymly-os-places-plugin/commit/1a8db73f0e8b317d55a0d3127bcaf2a28d045c24))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.195.1 to 1.196.0 ([db65770](https://github.com/wmfs/tymly-os-places-plugin/commit/db657706deb869aaca8b85d48b218111050cfc5f))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.196.0 to 1.197.0 ([96fd817](https://github.com/wmfs/tymly-os-places-plugin/commit/96fd8179d34b55e314dd8920810651c8f407a65f))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.197.0 to 1.198.0 ([e46fede](https://github.com/wmfs/tymly-os-places-plugin/commit/e46fede4000f9f19fd941a8c7f3772f15010d125))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.198.0 to 1.199.0 ([96380f6](https://github.com/wmfs/tymly-os-places-plugin/commit/96380f6ad3efe842d22fe5fe2ed3b1c6333f7793))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.199.0 to 1.200.0 ([09a023d](https://github.com/wmfs/tymly-os-places-plugin/commit/09a023ddd108f447bd88ac0b5823c46034fcea3b))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.200.0 to 1.201.0 ([0208634](https://github.com/wmfs/tymly-os-places-plugin/commit/02086341d29c4e4fb66909f8f8243b45cfc66bb0))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.201.0 to 1.202.0 ([5e02499](https://github.com/wmfs/tymly-os-places-plugin/commit/5e024992b2312e265bc26d18f29048126bfc8c07))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.202.0 to 1.203.0 ([afb13dd](https://github.com/wmfs/tymly-os-places-plugin/commit/afb13dd8e65895412d397ed5fcb8497d2178efcc))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.203.0 to 1.204.0 ([8474c1c](https://github.com/wmfs/tymly-os-places-plugin/commit/8474c1ca64ad8dc8272d39f40d4af558d27d29fd))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.204.0 to 1.205.0 ([fbfcf0b](https://github.com/wmfs/tymly-os-places-plugin/commit/fbfcf0b68afea7c24bd89a18b8bfd33f14d31785))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.205.0 to 1.206.0 ([25cf60c](https://github.com/wmfs/tymly-os-places-plugin/commit/25cf60cf48bf1ceb69abebe7cf6b3b359bf773a5))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.206.0 to 1.207.0 ([c8b1922](https://github.com/wmfs/tymly-os-places-plugin/commit/c8b1922ff4f42a0a2c4f9d119c336cdc5bedb824))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.207.0 to 1.208.0 ([b738f18](https://github.com/wmfs/tymly-os-places-plugin/commit/b738f187912ad036c9615e121c69a1276ca299af))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.208.0 to 1.209.0 ([3144659](https://github.com/wmfs/tymly-os-places-plugin/commit/3144659cf30c9473d8d665c1753f0614bc0e5201))
+* **deps-dev:** bump chai from 4.2.0 to 4.3.0 ([215af6e](https://github.com/wmfs/tymly-os-places-plugin/commit/215af6e6a75ed48bfbf54a31def0596067f64cb4))
+* **deps-dev:** bump chai from 4.3.0 to 4.3.1 ([56ad0e9](https://github.com/wmfs/tymly-os-places-plugin/commit/56ad0e96e0943ef83a68693784364659a7187d69))
+* **deps-dev:** bump chai from 4.3.1 to 4.3.2 ([75f20b3](https://github.com/wmfs/tymly-os-places-plugin/commit/75f20b3a9f5e424c4759180e5a8d4f1d901b2948))
+* **deps-dev:** bump chai from 4.3.2 to 4.3.3 ([a45f431](https://github.com/wmfs/tymly-os-places-plugin/commit/a45f431ec3f89d81ea1c6c5e0319a4c342ab7796))
+* **deps-dev:** bump chai from 4.3.3 to 4.3.4 ([b39c619](https://github.com/wmfs/tymly-os-places-plugin/commit/b39c6190e34addc55bd24e2a574536c5a7c1d94b))
+* **deps-dev:** bump codecov from 3.8.1 to 3.8.2 ([d254fb9](https://github.com/wmfs/tymly-os-places-plugin/commit/d254fb951a6cea2e2e73e1ac82f89b28ab49c4ac))
+* **deps-dev:** bump mocha from 8.2.1 to 8.3.0 ([e69f5ee](https://github.com/wmfs/tymly-os-places-plugin/commit/e69f5eee59a8eaadfbed7ca3db0bd874d004513e))
+* **deps-dev:** bump mocha from 8.3.0 to 8.3.1 ([4f75b02](https://github.com/wmfs/tymly-os-places-plugin/commit/4f75b021f291e6f9aa2f576bad6c4daf087d427f))
+* **deps-dev:** bump mocha from 8.3.1 to 8.3.2 ([cf23a09](https://github.com/wmfs/tymly-os-places-plugin/commit/cf23a09a366f3df344007c211abc26e7a958d329))
+* **deps-dev:** bump mocha from 8.3.2 to 8.4.0 ([fe75a42](https://github.com/wmfs/tymly-os-places-plugin/commit/fe75a42165b810365b84fb0148f1c0496dba1cb6))
+* **deps-dev:** bump mocha from 8.4.0 to 9.0.0 ([51874f4](https://github.com/wmfs/tymly-os-places-plugin/commit/51874f48a1d719b32bac8d3ffbf5d73897836f58))
+* **deps-dev:** bump mocha from 9.0.0 to 9.0.1 ([da7610d](https://github.com/wmfs/tymly-os-places-plugin/commit/da7610d0f709bd33b023545096386d06acadccf6))
+* **deps-dev:** bump semantic-release from 17.3.7 to 17.3.8 ([8146f7d](https://github.com/wmfs/tymly-os-places-plugin/commit/8146f7da65ae9f99da39acb4f33f2f2f0b1c8222))
+* **deps-dev:** bump semantic-release from 17.3.8 to 17.3.9 ([79af724](https://github.com/wmfs/tymly-os-places-plugin/commit/79af72494dfb5038b2a9cddc4b8b690e079cb30b))
+* **deps-dev:** bump semantic-release from 17.3.9 to 17.4.0 ([a1e516c](https://github.com/wmfs/tymly-os-places-plugin/commit/a1e516c38c8746b7a1ec19700fcd4bce973d9929))
+* **deps-dev:** bump semantic-release from 17.4.0 to 17.4.1 ([0d130d1](https://github.com/wmfs/tymly-os-places-plugin/commit/0d130d1b04e3ef65dd6f4cb51b75186936502d7d))
+* **deps-dev:** bump semantic-release from 17.4.1 to 17.4.2 ([a7399c7](https://github.com/wmfs/tymly-os-places-plugin/commit/a7399c732c9ba4665e09e86d60b30528d216314f))
+* **deps-dev:** bump semantic-release from 17.4.2 to 17.4.3 ([3fa73d5](https://github.com/wmfs/tymly-os-places-plugin/commit/3fa73d5ba737ac08bb5d041103df63c19cd26cd4))
+* **deps-dev:** bump semantic-release from 17.4.3 to 17.4.4 ([6def2f8](https://github.com/wmfs/tymly-os-places-plugin/commit/6def2f8f128c2a9a9449c8c14f70694260258e55))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** update postgres config to 13.2 ([67f980b](https://github.com/wmfs/tymly-os-places-plugin/commit/67f980b93342b67e59494b73044b8fbbbf5941b0))
+
 ## [1.4.1](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.4.0...v1.4.1) (2021-01-28)
 
 
