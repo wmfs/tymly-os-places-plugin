@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.5.0...v1.6.0) (2021-06-23)
+
+
+### ✨ Features
+
+* optional minmatch/matchprecision with defaults ([057adc0](https://github.com/wmfs/tymly-os-places-plugin/commit/057adc0a8a9752dcfbc0e2a4919b18428f09a421))
+
 # [1.5.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.4.1...v1.5.0) (2021-06-22)
 
 
