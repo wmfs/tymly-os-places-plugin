@@ -1,3 +1,31 @@
+# [1.7.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.6.0...v1.7.0) (2021-09-10)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency axios to v0.21.2 [security] ([dd167fa](https://github.com/wmfs/tymly-os-places-plugin/commit/dd167fa609f3826ec890b405aeb37ca79cc0c5d7))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.209.0 to 1.210.0 ([753d83d](https://github.com/wmfs/tymly-os-places-plugin/commit/753d83df7b67a059071357f7caa64c612e5d3fd0))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.210.0 to 1.211.0 ([0e78a93](https://github.com/wmfs/tymly-os-places-plugin/commit/0e78a9322bb4ff7fcc30c552202ac472d96691ef))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.211.0 to 1.212.0 ([7bd4e77](https://github.com/wmfs/tymly-os-places-plugin/commit/7bd4e77a38fb710e35e65d97d5a371e7cfacf000))
+* **deps-dev:** bump codecov from 3.8.2 to 3.8.3 ([e8fa935](https://github.com/wmfs/tymly-os-places-plugin/commit/e8fa9354af1a9466b02989f92bc6cb68b65b7ef5))
+* **deps-dev:** bump mocha from 9.0.1 to 9.0.2 ([0410719](https://github.com/wmfs/tymly-os-places-plugin/commit/0410719d1e21b25191aa9b3b9defb33d6b4a119c))
+* **deps-dev:** bump mocha from 9.0.2 to 9.0.3 ([7bf58dc](https://github.com/wmfs/tymly-os-places-plugin/commit/7bf58dc5d15572fcde4b7bc19fd3ff2397a27487))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/git to v9.0.1 ([5f94ff2](https://github.com/wmfs/tymly-os-places-plugin/commit/5f94ff27ca3b27f6da189b5e3c09c459f589c967))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.212.2 ([34f52aa](https://github.com/wmfs/tymly-os-places-plugin/commit/34f52aaf84c874572dbd53d19226ccc2f2d2054a))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.212.3 ([ebc1e0c](https://github.com/wmfs/tymly-os-places-plugin/commit/ebc1e0c37600ac3b7e9b6d13fc9d2fb8293fb53a))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.212.4 ([56abbec](https://github.com/wmfs/tymly-os-places-plugin/commit/56abbec55febc922f2128bb043ad8ba950630727))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.213.0 ([a3e9334](https://github.com/wmfs/tymly-os-places-plugin/commit/a3e93347061d36172aff2c3691cc34dc11e27216))
+* **deps-dev:** update dependency mocha to v9.1.0 ([3ecf571](https://github.com/wmfs/tymly-os-places-plugin/commit/3ecf5718d8cb71829e12c6390581495267261bd3))
+* **deps-dev:** update dependency mocha to v9.1.1 ([adbf043](https://github.com/wmfs/tymly-os-places-plugin/commit/adbf043db7445283c811cfe4895a290e41824163))
+* **deps-dev:** update dependency semantic-release to v17.4.5 ([364cb55](https://github.com/wmfs/tymly-os-places-plugin/commit/364cb558c843cc695cb4a3bf766b6c15198e70b9))
+* **deps-dev:** update dependency semantic-release to v17.4.6 ([24604db](https://github.com/wmfs/tymly-os-places-plugin/commit/24604db05f4e3876edb19468e64b343cfc781e17))
+* **deps-dev:** update dependency semantic-release to v17.4.7 ([3a71a01](https://github.com/wmfs/tymly-os-places-plugin/commit/3a71a01d427cfa90532132943a48c6b550fecb6c))
+
+
+### ♻️ Chores
+
+* add renovate config [ch6600] ([5403f9c](https://github.com/wmfs/tymly-os-places-plugin/commit/5403f9c6a648f44160523287387b445a8e857496))
+
 # [1.6.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.5.0...v1.6.0) (2021-06-23)
 
 
