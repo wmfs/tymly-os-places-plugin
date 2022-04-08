@@ -1,3 +1,22 @@
+## [1.8.1](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.8.0...v1.8.1) (2022-04-08)
+
+
+### 🐛 Bug Fixes
+
+* use core logger ([6ff915b](https://github.com/wmfs/tymly-os-places-plugin/commit/6ff915b0d40dc2c807f4046c80f17f4f0f0b3d05))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.234.0 ([6c81e08](https://github.com/wmfs/tymly-os-places-plugin/commit/6c81e0864126cdb740666c8a8f166962d6b206a2))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.235.0 ([23cc620](https://github.com/wmfs/tymly-os-places-plugin/commit/23cc62030a60c3543b2c4ad7b9ce9852f2dc8a27))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.235.1 ([0a6d726](https://github.com/wmfs/tymly-os-places-plugin/commit/0a6d7264d176d90460ce31277c15eeb8ea126b1a))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.235.2 ([26ca6d2](https://github.com/wmfs/tymly-os-places-plugin/commit/26ca6d22f696d8ae1244940665c10651da17200b))
+* **deps-dev:** update dependency chai to v4.3.5 ([dc6976c](https://github.com/wmfs/tymly-os-places-plugin/commit/dc6976c5a1d87e2985ed44c09a4fe2bf112ba2b6))
+* **deps-dev:** update dependency chai to v4.3.6 ([1b28409](https://github.com/wmfs/tymly-os-places-plugin/commit/1b28409e4c3f7edaf473d824ac5c1f0e220981bd))
+* **deps-dev:** update dependency mocha to v9.2.1 ([f49e893](https://github.com/wmfs/tymly-os-places-plugin/commit/f49e893e12dd636c0342e0c5516710acf3d73b59))
+* **deps-dev:** update dependency mocha to v9.2.2 ([fdcf99e](https://github.com/wmfs/tymly-os-places-plugin/commit/fdcf99ed026517057a3fc15048773dced77a90c6))
+
 # [1.8.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.7.0...v1.8.0) (2022-01-25)
 
 
