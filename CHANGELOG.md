@@ -1,3 +1,22 @@
+# [1.11.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.10.0...v1.11.0) (2023-09-19)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.258.0 ([972ea4e](https://github.com/wmfs/tymly-os-places-plugin/commit/972ea4e123176cec7c41f19749ee7b8607b08b73))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.261.0 ([9c2034a](https://github.com/wmfs/tymly-os-places-plugin/commit/9c2034afb7b440a639ca47c56ab9531f09231209))
+* **deps-dev:** update dependency chai to v4.3.8 ([ed923f5](https://github.com/wmfs/tymly-os-places-plugin/commit/ed923f53e9ff99171e7b3577cec955755e2a1b40))
+* **deps-dev:** update dependency semantic-release to v21.0.5 ([a236014](https://github.com/wmfs/tymly-os-places-plugin/commit/a236014dfa874a073ddfabcb3bc6c2f151e7a6a9))
+* **deps-dev:** update dependency semantic-release to v21.0.6 ([157702b](https://github.com/wmfs/tymly-os-places-plugin/commit/157702bc29a56b0e5a7245715b6df73157e56827))
+* **deps-dev:** update dependency semantic-release to v21.0.7 ([64b0e7b](https://github.com/wmfs/tymly-os-places-plugin/commit/64b0e7b427411e8136b44c7214065a772460c047))
+* **deps-dev:** update dependency semantic-release to v21.0.8 ([dd12d1f](https://github.com/wmfs/tymly-os-places-plugin/commit/dd12d1f88afd25186dfaf85198e868c4cc63277f))
+* **deps-dev:** update dependency semantic-release to v21.0.9 ([45dfe08](https://github.com/wmfs/tymly-os-places-plugin/commit/45dfe08f2e678502d19b24f1de9c3040a3316316))
+* **deps-dev:** update dependency semantic-release to v21.1.0 ([fdc3070](https://github.com/wmfs/tymly-os-places-plugin/commit/fdc3070eb1e3e9340eb40c5698d3fe541c48c17f))
+* **deps-dev:** update dependency semantic-release to v21.1.1 ([bb75f59](https://github.com/wmfs/tymly-os-places-plugin/commit/bb75f59312540f380b3cd8fb6ed2cca8a694e29f))
+* **deps-dev:** update dependency semantic-release to v21.1.2 ([6fd148b](https://github.com/wmfs/tymly-os-places-plugin/commit/6fd148b9fc7b489303f69c681448b9508d67df8e))
+* **deps-dev:** update dependency semantic-release to v22 ([a991ef7](https://github.com/wmfs/tymly-os-places-plugin/commit/a991ef7aaca256213c608e3b7fb5c4c1e1352fc6))
+* **deps:** revert semantic-release ([bf66f41](https://github.com/wmfs/tymly-os-places-plugin/commit/bf66f410101aab8ca6b7b13778ba15c68f7ad533))
+
 # [1.10.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.9.0...v1.10.0) (2023-06-07)
 
 
