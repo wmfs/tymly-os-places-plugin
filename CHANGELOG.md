@@ -1,3 +1,5 @@
+# [1.12.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.11.0...v1.12.0) (2024-07-02)
+
 # [1.11.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.10.0...v1.11.0) (2023-09-19)
 
 
