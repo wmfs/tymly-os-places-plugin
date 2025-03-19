@@ -19,7 +19,7 @@
   },
   "main": "./lib/index.js",
   "dependencies": {
-    "axios": "1.8.3"
+    "axios": "1.8.4"
   },
   "devDependencies": {
     "@semantic-release/changelog": "6.0.3",
