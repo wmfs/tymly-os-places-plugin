@@ -1,3 +1,17 @@
+## [1.23.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.22.0...v1.23.0) (2025-07-23)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @wmfs/tymly to v1.313.0 ([#322](https://github.com/wmfs/tymly-os-places-plugin/issues/322)) ([5dcd3ee](https://github.com/wmfs/tymly-os-places-plugin/commit/5dcd3eee1eeef724745122c8639477df61dbd17b))
+* **deps-dev:** update dependency @wmfs/tymly to v1.314.0 ([#324](https://github.com/wmfs/tymly-os-places-plugin/issues/324)) ([be32c87](https://github.com/wmfs/tymly-os-places-plugin/commit/be32c87138c5521a32bfe7258c699f6957de2e11))
+* **deps-dev:** update dependency @wmfs/tymly to v1.315.0 ([#326](https://github.com/wmfs/tymly-os-places-plugin/issues/326)) ([4841fd0](https://github.com/wmfs/tymly-os-places-plugin/commit/4841fd03f782b3403f73032745a878d4baae2757))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9.1.0 ([#323](https://github.com/wmfs/tymly-os-places-plugin/issues/323)) ([233f76f](https://github.com/wmfs/tymly-os-places-plugin/commit/233f76f7664b4738d28993821b1d3960529b52c9))
+* **deps-dev:** update dependency mocha to v11.7.0 ([#319](https://github.com/wmfs/tymly-os-places-plugin/issues/319)) ([e79c74a](https://github.com/wmfs/tymly-os-places-plugin/commit/e79c74ad95ce3175e6bc31d34f5d99eea1687747))
+* **deps-dev:** update dependency mocha to v11.7.1 ([#320](https://github.com/wmfs/tymly-os-places-plugin/issues/320)) ([4b8e236](https://github.com/wmfs/tymly-os-places-plugin/commit/4b8e23672d1210ef5c8bcdc44bcc484e0707c517))
+* **deps-dev:** update dependency semantic-release to v24.2.6 ([#321](https://github.com/wmfs/tymly-os-places-plugin/issues/321)) ([a6a1f27](https://github.com/wmfs/tymly-os-places-plugin/commit/a6a1f278b9689f5065897b9b23563f9b98c4fde0))
+* **deps-dev:** update dependency semantic-release to v24.2.7 ([#325](https://github.com/wmfs/tymly-os-places-plugin/issues/325)) ([06d40dc](https://github.com/wmfs/tymly-os-places-plugin/commit/06d40dc35082a6a314507e4cb346cf4517dbd340))
+* **deps:** update axios from 1.10.0 to 1.11.0 ([6be58d4](https://github.com/wmfs/tymly-os-places-plugin/commit/6be58d4ad24c97c993eeab2dd70d65c842b9413e))
+
 ## [1.22.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.21.0...v1.22.0) (2025-06-16)
 
 ### Build system dependencies :hammer:
