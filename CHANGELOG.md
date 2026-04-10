@@ -1,3 +1,26 @@
+## [1.24.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.23.0...v1.24.0) (2026-04-10)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @semantic-release/release-notes-generator to v14.1.0 ([#329](https://github.com/wmfs/tymly-os-places-plugin/issues/329)) ([0a282e8](https://github.com/wmfs/tymly-os-places-plugin/commit/0a282e8b551a140d7217fbf2da14bc5a3974f3c3))
+* **deps-dev:** update dependency @wmfs/tymly to v1.316.0 ([#342](https://github.com/wmfs/tymly-os-places-plugin/issues/342)) ([fa833ba](https://github.com/wmfs/tymly-os-places-plugin/commit/fa833ba88b70ef603e91992b8a3c3131b0c01622))
+* **deps-dev:** update dependency @wmfs/tymly to v1.317.0 ([#343](https://github.com/wmfs/tymly-os-places-plugin/issues/343)) ([315eb12](https://github.com/wmfs/tymly-os-places-plugin/commit/315eb12bae9fda362c0bfb2157bb4e7f3de29643))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9.2.0 ([#348](https://github.com/wmfs/tymly-os-places-plugin/issues/348)) ([4862530](https://github.com/wmfs/tymly-os-places-plugin/commit/4862530b573f74aa098606488a59b442a6ed17cf))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9.3.0 ([#349](https://github.com/wmfs/tymly-os-places-plugin/issues/349)) ([3506e29](https://github.com/wmfs/tymly-os-places-plugin/commit/3506e29f2d82e40fda59e326921e348d4c3361e3))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9.3.1 ([#351](https://github.com/wmfs/tymly-os-places-plugin/issues/351)) ([4369f21](https://github.com/wmfs/tymly-os-places-plugin/commit/4369f218fb891df9af6b4678a3e3d95c659a5d82))
+* **deps-dev:** update dependency mocha to v11.7.2 ([#328](https://github.com/wmfs/tymly-os-places-plugin/issues/328)) ([280b46f](https://github.com/wmfs/tymly-os-places-plugin/commit/280b46f315111f8857f0362f09deb149e4b4186e))
+* **deps-dev:** update dependency mocha to v11.7.3 ([#335](https://github.com/wmfs/tymly-os-places-plugin/issues/335)) ([6cc608c](https://github.com/wmfs/tymly-os-places-plugin/commit/6cc608c1d443e17bccb85887c7ee702f1a46193c))
+* **deps-dev:** update dependency mocha to v11.7.4 ([#336](https://github.com/wmfs/tymly-os-places-plugin/issues/336)) ([ebed942](https://github.com/wmfs/tymly-os-places-plugin/commit/ebed942ba728b7a36ba8c3c906682ea49152e1f0))
+* **deps-dev:** update dependency mocha to v11.7.5 ([#340](https://github.com/wmfs/tymly-os-places-plugin/issues/340)) ([1a1bb79](https://github.com/wmfs/tymly-os-places-plugin/commit/1a1bb79d3d37f33ab0330b5cf35c271214677a73))
+* **deps-dev:** update dependency nyc to v18 ([#347](https://github.com/wmfs/tymly-os-places-plugin/issues/347)) ([31f6de7](https://github.com/wmfs/tymly-os-places-plugin/commit/31f6de7f8383e7e803d813d9e2499ea5f651cfd4))
+* **deps-dev:** update dependency semantic-release to v24.2.8 ([#330](https://github.com/wmfs/tymly-os-places-plugin/issues/330)) ([31ee6e2](https://github.com/wmfs/tymly-os-places-plugin/commit/31ee6e20b3e71b6c4929f6754d79658a8c07666b))
+* **deps-dev:** update dependency semantic-release to v24.2.9 ([#333](https://github.com/wmfs/tymly-os-places-plugin/issues/333)) ([4bef220](https://github.com/wmfs/tymly-os-places-plugin/commit/4bef2206a0ef6b691dcbb2cde6029fabd6b2f31d))
+* **deps-dev:** update dependency semantic-release to v25 ([#337](https://github.com/wmfs/tymly-os-places-plugin/issues/337)) ([c3b1815](https://github.com/wmfs/tymly-os-places-plugin/commit/c3b18158080665fe047e706b35559f750e71eb12))
+* **deps-dev:** update dependency semantic-release to v25.0.1 ([#338](https://github.com/wmfs/tymly-os-places-plugin/issues/338)) ([d478ebe](https://github.com/wmfs/tymly-os-places-plugin/commit/d478ebe8d75283a65d444c21825e72f57afc3c91))
+* **deps-dev:** update dependency semantic-release to v25.0.2 ([#341](https://github.com/wmfs/tymly-os-places-plugin/issues/341)) ([6695bd7](https://github.com/wmfs/tymly-os-places-plugin/commit/6695bd7abedff092760422e15224fadd223328bc))
+* **deps-dev:** update dependency semantic-release to v25.0.3 ([#344](https://github.com/wmfs/tymly-os-places-plugin/issues/344)) ([ec122f5](https://github.com/wmfs/tymly-os-places-plugin/commit/ec122f55b153ab815555f7171ebc72a8084fb7ce))
+* **deps:** bump axios ([6698192](https://github.com/wmfs/tymly-os-places-plugin/commit/66981928453fd3c60ef22580e03f9e59e61a8198))
+
 ## [1.23.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.22.0...v1.23.0) (2025-07-23)
 
 ### Build system dependencies :hammer:
