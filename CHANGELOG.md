@@ -1,3 +1,5 @@
+## [1.24.1](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.24.0...v1.24.1) (2026-08-13)
+
 ## [1.24.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.23.0...v1.24.0) (2026-04-10)
 
 ### Build system dependencies :hammer:
