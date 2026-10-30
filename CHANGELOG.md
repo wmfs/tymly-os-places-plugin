@@ -1,3 +1,23 @@
+## [1.25.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.24.1...v1.25.0) (2026-10-30)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** fix conventionalcommit versions [sc-34125] ([74eaa84](https://github.com/wmfs/tymly-os-places-plugin/commit/74eaa840a01a960941029997fce01a57c93f44f7))
+* **deps-dev:** update dependency @wmfs/tymly to v1.317.1 ([#369](https://github.com/wmfs/tymly-os-places-plugin/issues/369)) ([4c2d087](https://github.com/wmfs/tymly-os-places-plugin/commit/4c2d0872a0cbb3d015f7110caac661f332ea4143))
+* **deps-dev:** update dependency @wmfs/tymly to v1.322.0 ([#378](https://github.com/wmfs/tymly-os-places-plugin/issues/378)) ([311deec](https://github.com/wmfs/tymly-os-places-plugin/commit/311deec4c6d71d05be7e3b45029f148f3ddd0622))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.0 ([#370](https://github.com/wmfs/tymly-os-places-plugin/issues/370)) ([965c5b8](https://github.com/wmfs/tymly-os-places-plugin/commit/965c5b85efd557c1ed352ddb8b26821b65e62430))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.1 ([#375](https://github.com/wmfs/tymly-os-places-plugin/issues/375)) ([aa6e2cc](https://github.com/wmfs/tymly-os-places-plugin/commit/aa6e2ccb7232c2cb512b7b7ea857e38eacc26a0e))
+* **deps-dev:** update dependency mocha to v12 ([#371](https://github.com/wmfs/tymly-os-places-plugin/issues/371)) ([4afbf17](https://github.com/wmfs/tymly-os-places-plugin/commit/4afbf17be982417cb2ade824d27cd46da30ffe2b))
+* **deps-dev:** update dependency mocha to v12.0.1 ([#372](https://github.com/wmfs/tymly-os-places-plugin/issues/372)) ([5f88604](https://github.com/wmfs/tymly-os-places-plugin/commit/5f886049377201caf06f7ea01a0846ac2d6b9a56))
+* **deps-dev:** update dependency mocha to v12.0.2 ([#373](https://github.com/wmfs/tymly-os-places-plugin/issues/373)) ([231c1a2](https://github.com/wmfs/tymly-os-places-plugin/commit/231c1a26afda0def2c8a958ec429bdfb30c4fbb7))
+* **deps-dev:** update dependency mocha to v12.0.3 ([#374](https://github.com/wmfs/tymly-os-places-plugin/issues/374)) ([27c2991](https://github.com/wmfs/tymly-os-places-plugin/commit/27c29915b634dea61b32faee5221797715b21ef5))
+* **deps:** update dependency axios to v1.20.0 [security] ([#354](https://github.com/wmfs/tymly-os-places-plugin/issues/354)) ([030d39e](https://github.com/wmfs/tymly-os-places-plugin/commit/030d39ea7d0f6cd7b21b9d870ae8a12e595a2ece))
+
+### CICD Configuration Changes :construction_worker:
+
+* use github-app-token orb for release token [sc-34101] ([#377](https://github.com/wmfs/tymly-os-places-plugin/issues/377)) ([c69ecbd](https://github.com/wmfs/tymly-os-places-plugin/commit/c69ecbd9cbf74850c05a1c29eba8c7a5b27c62d5))
+* use shared renovate preset [sc-34117] ([#376](https://github.com/wmfs/tymly-os-places-plugin/issues/376)) ([e0d4b1d](https://github.com/wmfs/tymly-os-places-plugin/commit/e0d4b1d692d69b21d7098f2e754a65fa2376e5d8))
+
 ## [1.24.1](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.24.0...v1.24.1) (2026-08-13)
 
 ## [1.24.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.23.0...v1.24.0) (2026-04-10)
