@@ -1,3 +1,9 @@
+## [1.26.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.25.0...v1.26.0) (2026-11-02)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency axios to v1.21.0 ([#379](https://github.com/wmfs/tymly-os-places-plugin/issues/379)) ([d9e3239](https://github.com/wmfs/tymly-os-places-plugin/commit/d9e323925205e322a6b0737ddb92878fe9a26ecf))
+
 ## [1.25.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.24.1...v1.25.0) (2026-10-30)
 
 ### Build system dependencies :hammer:
