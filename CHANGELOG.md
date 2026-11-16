@@ -1,3 +1,14 @@
+## [1.27.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.26.0...v1.27.0) (2026-11-16)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @wmfs/tymly to v1.324.0 ([#380](https://github.com/wmfs/tymly-os-places-plugin/issues/380)) ([e5e88b7](https://github.com/wmfs/tymly-os-places-plugin/commit/e5e88b7902f3b2a227d830083a44e47e30b25c7a))
+* **deps-dev:** update dependency @wmfs/tymly to v1.325.0 ([#381](https://github.com/wmfs/tymly-os-places-plugin/issues/381)) ([309639f](https://github.com/wmfs/tymly-os-places-plugin/commit/309639f06ac4c8573c130a2e380127fcac9c0f73))
+* **deps-dev:** update dependency @wmfs/tymly to v1.326.0 ([#382](https://github.com/wmfs/tymly-os-places-plugin/issues/382)) ([c4fd40c](https://github.com/wmfs/tymly-os-places-plugin/commit/c4fd40c955ed444b2ef1bc84450456dda7dfd1a4))
+* **deps-dev:** update dependency @wmfs/tymly to v1.327.0 ([#383](https://github.com/wmfs/tymly-os-places-plugin/issues/383)) ([0444e5a](https://github.com/wmfs/tymly-os-places-plugin/commit/0444e5ab612f9b8f21a92e89938b02b8a4937891))
+* **deps-dev:** update dependency @wmfs/tymly to v1.328.0 ([#384](https://github.com/wmfs/tymly-os-places-plugin/issues/384)) ([72e34fc](https://github.com/wmfs/tymly-os-places-plugin/commit/72e34fc3cae6f904fa229cdb95d0fd6cdd4e70cc))
+* **deps:** update dependency axios to v1.21.1 ([#385](https://github.com/wmfs/tymly-os-places-plugin/issues/385)) ([904dd31](https://github.com/wmfs/tymly-os-places-plugin/commit/904dd315a5c9f8c1fe9014f6aef847783a5a12ac))
+
 ## [1.26.0](https://github.com/wmfs/tymly-os-places-plugin/compare/v1.25.0...v1.26.0) (2026-11-02)
 
 ### Build system dependencies :hammer:
